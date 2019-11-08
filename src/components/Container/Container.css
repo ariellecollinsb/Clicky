@@ -1,0 +1,8 @@
+.container {
+    padding-top: 10px;
+    height: 100%;
+    max-width: 900px;
+    display: flex;
+    flex-flow: row wrap;
+    overflow: auto;
+  }

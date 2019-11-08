@@ -10,9 +10,9 @@
   },
   "scripts": {
     "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "deploy": "gh-pages -b master -d build"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"

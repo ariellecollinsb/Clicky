@@ -1,17 +1,17 @@
 .App {
-  background-image: url("https://wallpaperhd.wiki/wp-content/uploads/pokemon-backgrounds-for-desktop-wallpaper.wiki-all-pokemon-wallpaper-for-desktop-pic-wpc0013472-ROKAFj.jpg");
+    background-image: url("https://wallpaperhd.wiki/wp-content/uploads/pokemon-backgrounds-for-desktop-wallpaper.wiki-all-pokemon-wallpaper-for-desktop-pic-wpc0013472-ROKAFj.jpg");
 }
 
 .App-header {
-  text-align: center;
-  color: #fff;
-  background-color: #67cbe2;
-  border-bottom: solid 1px #fff;
+    text-align: center;
+    color: #fff;
+    background-color: #67cbe2;
+    border-bottom: solid 1px #fff;
 
 } 
 
 .App-footer {
-  text-align: center;
-  background-color: #a6f1ed;
-  border-top: 2px solid #fff;
+    text-align: center;
+    background-color: #a6f1ed;
+    border-top: 2px solid #fff;
 }
